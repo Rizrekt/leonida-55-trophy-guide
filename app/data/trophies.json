@@ -1,0 +1,1777 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "type": "Completion",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "The platinum. It unlocks on its own once the other 54 trophies are on your profile, and every one of them is single-player.",
+      "guide": "The platinum arrives automatically after the other 54 trophies. Treat it as a receipt for the whole list rather than something you chase directly.\n1. Work through the other 54 trophies in any order you like; this one has no separate requirement of its own. [S2]\n2. Stay in the base game's single-player mode — the set carries no online or DLC trophies, so nothing here depends on other players. [S3]\n3. Expect the completion and activity trophies to be the last ones standing: the 100% checklist and the 250-stunt total are the two biggest single asks in the set. [S2]",
+      "steps": [
+        {
+          "text": "Work through the other 54 trophies in any order you like; this one has no separate requirement of its own.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Stay in the base game's single-player mode — the set carries no online or DLC trophies, so nothing here depends on other players.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Expect the completion and activity trophies to be the last ones standing: the 100% checklist and the 250-stunt total are the two biggest single asks in the set.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish the Chapter 1 mission Gone Fishing. It is one of the first missions in the game, so this one lands almost immediately.",
+      "guide": "Gone Fishing is an early Chapter 1 mission and the trophy is automatic.\n1. Play the opening stretch of Chapter 1 until Gone Fishing appears in the mission flow; it sits among the very first missions. [S2]\n2. Complete the mission as the story presents it — the official description asks only for the mission to be finished, with no optional objective attached. [S1]\n3. Let the mission end normally and the trophy unlocks; because the mission is part of the story path, there is no way to skip past it. [S3]",
+      "steps": [
+        {
+          "text": "Play the opening stretch of Chapter 1 until Gone Fishing appears in the mission flow; it sits among the very first missions.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the mission as the story presents it — the official description asks only for the mission to be finished, with no optional objective attached.",
+          "cite": ["S1"]
+        },
+        {
+          "text": "Let the mission end normally and the trophy unlocks; because the mission is part of the story path, there is no way to skip past it.",
+          "cite": ["S3"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Clear Chapter 1. One source reports the pop landing a little late, once the first Chapter 2 mission is already under way.",
+      "guide": "Clear every Chapter 1 story mission. The pop may trail the chapter ending slightly.\n1. Finish the Chapter 1 story missions in order, starting from Gone Fishing. [S3]\n2. Do not worry if the chapter closes without a trophy: the guide detail says it lands once the first Chapter 2 mission begins. [S3]\n3. Keep playing the story path — this is a chapter milestone, so there is nothing optional to complete for it. [S2]",
+      "steps": [
+        {
+          "text": "Finish the Chapter 1 story missions in order, starting from Gone Fishing.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Do not worry if the chapter closes without a trophy: the guide detail says it lands once the first Chapter 2 mission begins.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Keep playing the story path — this is a chapter milestone, so there is nothing optional to complete for it.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Clear Chapter 2. The unlock is reported as arriving as Chapter 3 opens rather than on the chapter's last frame.",
+      "guide": "Clear Chapter 2; the trophy is reported to pop as Chapter 3 starts.\n1. Play every Chapter 2 story mission through to the end of the chapter. [S2]\n2. Expect the unlock at the transition into Chapter 3 rather than at the exact moment the last Chapter 2 mission finishes. [S3]\n3. Nothing extra is needed — the chapter clear is the whole requirement. [S1]",
+      "steps": [
+        {
+          "text": "Play every Chapter 2 story mission through to the end of the chapter.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Expect the unlock at the transition into Chapter 3 rather than at the exact moment the last Chapter 2 mission finishes.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Nothing extra is needed — the chapter clear is the whole requirement.",
+          "cite": ["S1"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Clear Chapter 3. The trophy is reported to appear after the first two Chapter 4 missions have been played.",
+      "guide": "Clear Chapter 3, with the pop reported after the opening missions of Chapter 4.\n1. Work through the full Chapter 3 story run. [S2]\n2. If the chapter ends without a trophy, play on into Chapter 4 — the guide detail puts the unlock after its first two missions. [S3]\n3. Keep the story moving; this one cannot be missed by playing on. [S2]",
+      "steps": [
+        {
+          "text": "Work through the full Chapter 3 story run.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "If the chapter ends without a trophy, play on into Chapter 4 — the guide detail puts the unlock after its first two missions.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Keep the story moving; this one cannot be missed by playing on.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Clear Chapter 4. Straight chapter milestone, no side content involved.",
+      "guide": "Clear the Chapter 4 story missions. Nothing beyond the story path is required.\n1. Play the Chapter 4 story missions through to the end of the chapter. [S2]\n2. Treat the chapter clear itself as the whole requirement — no optional objective is attached to this trophy. [S3]\n3. Carry on into Chapter 5 if the trophy has not appeared yet; the chapter milestones in this game are reported to lag slightly behind the chapter break. [S3]",
+      "steps": [
+        {
+          "text": "Play the Chapter 4 story missions through to the end of the chapter.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Treat the chapter clear itself as the whole requirement — no optional objective is attached to this trophy.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Carry on into Chapter 5 if the trophy has not appeared yet; the chapter milestones in this game are reported to lag slightly behind the chapter break.",
+          "cite": ["S3"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish the last story mission. This is one of the two golds in the set, and free-roam carries on once it is done.",
+      "guide": "Roll the credits by finishing the final story mission; the open world stays open afterwards.\n1. Play the story through to its last mission, following the chapter sequence from Chapter 1 onwards. [S2]\n2. Complete that final mission. The trophy is tied to the mission itself, not to any completion percentage. [S1]\n3. Keep playing after the credits if you still have cleanup left — free-roam continues once the story ends, so the remaining trophies stay reachable. [S2]",
+      "steps": [
+        {
+          "text": "Play the story through to its last mission, following the chapter sequence from Chapter 1 onwards.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete that final mission. The trophy is tied to the mission itself, not to any completion percentage.",
+          "cite": ["S1"]
+        },
+        {
+          "text": "Keep playing after the credits if you still have cleanup left — free-roam continues once the story ends, so the remaining trophies stay reachable.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish the Chapter 2 story mission Breakfast Run. Automatic as you follow the story.",
+      "guide": "Breakfast Run is a Chapter 2 story mission and the trophy is automatic.\n1. Reach Chapter 2 and keep following the story missions until Breakfast Run comes up. [S2]\n2. Play the mission through to its end; the description asks only for the mission to be completed. [S1]\n3. Move on with the story — the mission is on the main path, so the trophy cannot be skipped. [S3]",
+      "steps": [
+        {
+          "text": "Reach Chapter 2 and keep following the story missions until Breakfast Run comes up.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Play the mission through to its end; the description asks only for the mission to be completed.",
+          "cite": ["S1"]
+        },
+        {
+          "text": "Move on with the story — the mission is on the main path, so the trophy cannot be skipped.",
+          "cite": ["S3"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish The Cartel Heist, a Chapter 3 story mission. Story-path automatic.",
+      "guide": "The Cartel Heist sits in Chapter 3 and unlocks on completion.\n1. Progress the story into Chapter 3 and play until The Cartel Heist is offered. [S2]\n2. Complete the heist mission as the story presents it; no optional condition is attached. [S3]\n3. Continue the chapter afterwards — the trophy arrives with the mission's completion, not with any later step. [S1]",
+      "steps": [
+        {
+          "text": "Progress the story into Chapter 3 and play until The Cartel Heist is offered.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the heist mission as the story presents it; no optional condition is attached.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Continue the chapter afterwards — the trophy arrives with the mission's completion, not with any later step.",
+          "cite": ["S1"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish Child's Play, a Chapter 4 story mission. Nothing extra to do.",
+      "guide": "Child's Play is part of the Chapter 4 story run and pops on completion.\n1. Play into Chapter 4 and follow the missions until Child's Play starts. [S2]\n2. Finish the mission normally; the trophy tracks mission completion only. [S3]\n3. Carry on with Chapter 4 — this one needs no detour. [S1]",
+      "steps": [
+        {
+          "text": "Play into Chapter 4 and follow the missions until Child's Play starts.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Finish the mission normally; the trophy tracks mission completion only.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Carry on with Chapter 4 — this one needs no detour.",
+          "cite": ["S1"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish Headliners, a Chapter 4 story mission. Automatic on the story path.",
+      "guide": "Headliners is a Chapter 4 mission; completing it is the whole job.\n1. Reach Chapter 4 and play the story missions until Headliners appears. [S2]\n2. Complete the mission. The all-caps trophy name matches the mission title on the official list. [S1]\n3. Keep going with the chapter — no side activity is involved. [S3]",
+      "steps": [
+        {
+          "text": "Reach Chapter 4 and play the story missions until Headliners appears.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the mission. The all-caps trophy name matches the mission title on the official list.",
+          "cite": ["S1"]
+        },
+        {
+          "text": "Keep going with the chapter — no side activity is involved.",
+          "cite": ["S3"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish VCIA Takedown, a Chapter 4 story mission. Story-path automatic.",
+      "guide": "VCIA Takedown is a Chapter 4 story mission.\n1. Play Chapter 4 until VCIA Takedown is offered. [S2]\n2. Complete the mission as scripted; the trophy has no optional requirement. [S3]\n3. Move on to the next story mission once it is done. [S1]",
+      "steps": [
+        {
+          "text": "Play Chapter 4 until VCIA Takedown is offered.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the mission as scripted; the trophy has no optional requirement.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Move on to the next story mission once it is done.",
+          "cite": ["S1"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "type": "Story",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish Operation Savage Glory, a Chapter 5 story mission. The last of the mission-specific story trophies.",
+      "guide": "Operation Savage Glory belongs to Chapter 5 and unlocks on completion.\n1. Play the story into Chapter 5 and continue until Operation Savage Glory starts. [S2]\n2. Complete the mission; this is the final mission-specific story trophy before the endgame. [S3]\n3. Continue towards the final mission afterwards, which carries the gold for finishing the story. [S1]",
+      "steps": [
+        {
+          "text": "Play the story into Chapter 5 and continue until Operation Savage Glory starts.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the mission; this is the final mission-specific story trophy before the endgame.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Continue towards the final mission afterwards, which carries the gold for finishing the story.",
+          "cite": ["S1"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "type": "Completion",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Reach 100% on the in-game checklist. This is the biggest trophy in the set and the one most players finish last.",
+      "guide": "The 100% checklist is the long haul. Progress made before the story ends still counts, and nothing on the list can be lost.\n1. Open Progress then Stats after the story to see the completion checklist, which becomes visible at that point — earlier progress is already counted. [S2]\n2. Clear the items the checklist wants in full: every robbery, bank vault and gang operation, the underwater discoveries, all Shooting Range golds, all drone races and Bret's Target Decks. [S2]\n3. Fill the partial quotas as well: 200 vehicle scans, 100 animal studies and 70 of the 80 Challenges. [S3]\n4. Work through what is left in free-roam after the credits; nothing on the checklist is missable, so order is your choice. [S2]",
+      "steps": [
+        {
+          "text": "Open Progress then Stats after the story to see the completion checklist, which becomes visible at that point — earlier progress is already counted.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Clear the items the checklist wants in full: every robbery, bank vault and gang operation, the underwater discoveries, all Shooting Range golds, all drone races and Bret's Target Decks.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Fill the partial quotas as well: 200 vehicle scans, 100 animal studies and 70 of the 80 Challenges.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Work through what is left in free-roam after the credits; nothing on the checklist is missable, so order is your choice.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "type": "Activity / completion",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 250,
+        "unit": "stunts"
+      },
+      "guide_short": "Land 250 stunts of any kind. The stunt pool is shared across jumps, bridge flights, knife flights and base jumps.",
+      "guide": "Any 250 stunts count. The trophy is a smaller target than the 100% checklist, so it comes along for free on the way to A Long Road.\n1. Mix the four stunt types as you like — stunt jumps, flights under bridges, knife flights and base jumps all feed the same total. [S2]\n2. Repeat whatever is quickest near you; the trophy asks for 250 stunts and does not require 250 different ones. [S3]\n3. Keep going past the trophy if you are also chasing 100%, because that checklist wants 300 stunts in total. [S2]",
+      "steps": [
+        {
+          "text": "Mix the four stunt types as you like — stunt jumps, flights under bridges, knife flights and base jumps all feed the same total.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Repeat whatever is quickest near you; the trophy asks for 250 stunts and does not require 250 different ones.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Keep going past the trophy if you are also chasing 100%, because that checklist wants 300 stunts in total.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "type": "Activity",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 9,
+        "unit": "activities"
+      },
+      "guide_short": "Sample all nine activity types once each. No skill required — you only have to try them.",
+      "guide": "Nine different activity types, one attempt each. Performance does not matter.\n1. Tick off fishing, hunting, golf, the shooting range, pool and basketball. [S2]\n2. Add the remaining three: an arcade game, a race win and a stunt. [S2]\n3. Track the total in the activity list; the counter runs to 9, so one visit to each type finishes it. [S4]",
+      "steps": [
+        {
+          "text": "Tick off fishing, hunting, golf, the shooting range, pool and basketball.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Add the remaining three: an arcade game, a race win and a stunt.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Track the total in the activity list; the counter runs to 9, so one visit to each type finishes it.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "type": "Activity",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 42,
+        "unit": "golds"
+      },
+      "guide_short": "Take gold on all 42 Shooting Range challenges, spread over 12 ranges. The set's main skill test.",
+      "guide": "Every Shooting Range challenge needs a gold medal. There are 42 of them across 12 ranges.\n1. Find the 12 ranges and clear each challenge at bronze or better first, so every range is open and familiar. [S2]\n2. Go back through the challenges and push each one to gold — the counter tracks 42 golds in total. [S4]\n3. Leave the ranges until after the story if you prefer; the Shooting Range work is also part of the 100% checklist. [S2]",
+      "steps": [
+        {
+          "text": "Find the 12 ranges and clear each challenge at bronze or better first, so every range is open and familiar.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Go back through the challenges and push each one to gold — the counter tracks 42 golds in total.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Leave the ranges until after the story if you prefer; the Shooting Range work is also part of the 100% checklist.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "type": "Activity / racing",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 14,
+        "unit": "locations"
+      },
+      "guide_short": "Win a drone race at each of the 14 Top Fun locations. One win per venue is enough.",
+      "guide": "Fourteen drone-race venues, one win at each. The counter stops at 14.\n1. Work through the Top Fun locations and win once at each — the trophy tracks venues, not races. [S2]\n2. Watch the counter as you go; it runs to 14 locations in total. [S4]\n3. Expect to fly more of them later if you are going for 100%, which asks for all 42 drone races. [S2]",
+      "steps": [
+        {
+          "text": "Work through the Top Fun locations and win once at each — the trophy tracks venues, not races.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Watch the counter as you go; it runs to 14 locations in total.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Expect to fly more of them later if you are going for 100%, which asks for all 42 drone races.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "type": "Activity / racing",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 20,
+        "unit": "races"
+      },
+      "guide_short": "Win 20 separate races. Repeating a race you have already won will not move the counter.",
+      "guide": "Twenty distinct race wins. Repeats do not count, so spread your wins around.\n1. Pick race events from across the map rather than farming a single favourite — the trophy counts different races. [S2]\n2. Win each one; there are 40 races in the game, so you have roughly double the needed pool to choose from. [S2]\n3. Check the counter as you go, since a repeat win on an old track will not advance it. [S4]",
+      "steps": [
+        {
+          "text": "Pick race events from across the map rather than farming a single favourite — the trophy counts different races.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Win each one; there are 40 races in the game, so you have roughly double the needed pool to choose from.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Check the counter as you go, since a repeat win on an old track will not advance it.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "type": "Activity / character",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Win the fishing contest against Cal, who you meet early in Chapter 1. Only the win matters, not the size of the catch.",
+      "guide": "Cal's fishing line ends in a head-to-head contest, and beating him is the whole trophy.\n1. Meet Cal during Chapter 1 and take on the fishing jobs he offers from that point. [S2]\n2. Work through his questline so the challenge against him becomes available. [S2]\n3. Win that fishing challenge — the trophy tracks the result against Cal, not a weight or species target. [S2]\n4. Treat it as a free activity tick as well, because fishing is one of the nine activity types the Master of None trophy wants. [S2]",
+      "steps": [
+        {
+          "text": "Meet Cal during Chapter 1 and take on the fishing jobs he offers from that point.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Work through his questline so the challenge against him becomes available.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Win that fishing challenge — the trophy tracks the result against Cal, not a weight or species target.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Treat it as a free activity tick as well, because fishing is one of the nine activity types the Master of None trophy wants.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "type": "Activity / misc",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish any one arcade game from start to finish. There are four to choose from, so pick the one you find easiest.",
+      "guide": "One finished arcade game is enough; the set does not ask for all of them.\n1. Find a playable arcade title — the source lists four in total, three reachable from the in-game home TV and one on an arcade cabinet. [S2]\n2. Play the one you like to its ending rather than chasing a high score; completion is the only condition. [S2]\n3. Use the same session to tick the arcade activity off the Master of None list, which asks for one arcade game among its nine types. [S2]",
+      "steps": [
+        {
+          "text": "Find a playable arcade title — the source lists four in total, three reachable from the in-game home TV and one on an arcade cabinet.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Play the one you like to its ending rather than chasing a high score; completion is the only condition.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Use the same session to tick the arcade activity off the Master of None list, which asks for one arcade game among its nine types.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Run Andy's five-quest line to its last mission. The line opens in Chapter 3 and is Lucia's to play.",
+      "guide": "Andy's questline is a five-part chain that only Lucia can start, and it stays open after the credits.\n1. Reach Chapter 3, where Andy's questline becomes available, and start it as Lucia — the source notes the line is Lucia-only. [S2]\n2. Complete the five quests in the chain in order. [S2]\n3. Finish the final mission of the line to trigger the trophy; if you leave it until later, it is still there in post-story free-roam. [S2]",
+      "steps": [
+        {
+          "text": "Reach Chapter 3, where Andy's questline becomes available, and start it as Lucia — the source notes the line is Lucia-only.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete the five quests in the chain in order.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Finish the final mission of the line to trigger the trophy; if you leave it until later, it is still there in post-story free-roam.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Pull treasure out of seven shipwrecks for Kenton and finish his line. He appears in Chapter 1 and comes back later.",
+      "guide": "Kenton's chain is a wreck-diving job list: seven shipwrecks, then the closing mission.\n1. Meet Kenton in Chapter 1 to open his questline. [S2]\n2. Recover treasure from each of the seven shipwrecks he sends you to. [S2]\n3. Pick the line back up when Kenton returns later in the story, since the chain is not finished in one sitting. [S2]\n4. Complete his final mission for the trophy — the line can also be finished after the story ends. [S2]",
+      "steps": [
+        {
+          "text": "Meet Kenton in Chapter 1 to open his questline.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Recover treasure from each of the seven shipwrecks he sends you to.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Pick the line back up when Kenton returns later in the story, since the chain is not finished in one sitting.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete his final mission for the trophy — the line can also be finished after the story ends.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Finish Billy's five-job line, which opens after a Chapter 2 mission and remains open once the story is over.",
+      "guide": "Billy hands out five jobs; the trophy lands when the last of them is done.\n1. Play into Chapter 2 until the mission that introduces Billy's questline is done — his jobs open after it. [S2]\n2. Complete all five jobs in the chain. [S2]\n3. Take the final job to unlock the trophy, or come back for it in free-roam after the credits if you would rather finish the story first. [S2]",
+      "steps": [
+        {
+          "text": "Play into Chapter 2 until the mission that introduces Billy's questline is done — his jobs open after it.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete all five jobs in the chain.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take the final job to unlock the trophy, or come back for it in free-roam after the credits if you would rather finish the story first.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "type": "Side / strangers",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "partly-confirmed",
+      "counter": {
+        "target": 8,
+        "unit": "strands"
+      },
+      "guide_short": "Finish eight stranger mission strands anywhere in Leonida. Not every named questline counts toward the eight, and the qualifying list was still being pinned down.",
+      "guide": "Eight stranger strands have to be finished, and the count is pickier than it looks.\n1. Take on stranger questlines as they appear around the state; these are the side chains that are separate from the main story. [S2]\n2. Finish each strand completely rather than a single mission from it — the counter moves per completed strand. [S2]\n3. Do not assume every named character chain qualifies: the source warns that some of them are excluded from the eight. [S2]\n4. Expect the exact qualifying set to be the open question here — the source said it was still being confirmed, so treat any list of eight as provisional until it is settled. [S2]\n5. Keep going after the story if needed; this work is not part of the 100% checklist and stays available in free-roam. [S3]",
+      "steps": [
+        {
+          "text": "Take on stranger questlines as they appear around the state; these are the side chains that are separate from the main story.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Finish each strand completely rather than a single mission from it — the counter moves per completed strand.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not assume every named character chain qualifies: the source warns that some of them are excluded from the eight.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Expect the exact qualifying set to be the open question here — the source said it was still being confirmed, so treat any list of eight as provisional until it is settled.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Keep going after the story if needed; this work is not part of the 100% checklist and stays available in free-roam.",
+          "cite": ["S3"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Deliver the sixteen sports cars on Randy's Wish List, then finish his last mission. The line opens after a Chapter 3 story mission.",
+      "guide": "Randy's chain is a shopping list of sixteen sports cars followed by a closing job.\n1. Play the Chapter 3 story mission that opens Randy's questline, then pick up his Wish List. [S2]\n2. Source and deliver each of the 16 sports cars on that list; the deliveries are the bulk of the chain. [S2]\n3. Complete his final mission once the list is clear to unlock the trophy. [S2]",
+      "steps": [
+        {
+          "text": "Play the Chapter 3 story mission that opens Randy's questline, then pick up his Wish List.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Source and deliver each of the 16 sports cars on that list; the deliveries are the bulk of the chain.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete his final mission once the list is clear to unlock the trophy.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Destroy the synthetic labs Tyrone points you at, then take his final job. Jason is the character who runs this line.",
+      "guide": "Tyrone's questline is a demolition list with a finale attached, and only Jason can work it.\n1. Reach Chapter 3, where Tyrone's questline opens, and start it as Jason — the source marks the line Jason-only. [S2]\n2. Destroy the synthetic labs the chain sends you to, clearing each one as it comes up. [S2]\n3. Take and complete the final job in the line for the trophy. [S2]",
+      "steps": [
+        {
+          "text": "Reach Chapter 3, where Tyrone's questline opens, and start it as Jason — the source marks the line Jason-only.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Destroy the synthetic labs the chain sends you to, clearing each one as it comes up.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take and complete the final job in the line for the trophy.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "type": "Collectible / exploration",
+      "hidden": false,
+      "missable_status": "possibly-unconfirmed",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 18,
+        "unit": "spots"
+      },
+      "guide_short": "Meditate at all 18 spots across Leonida. One early meditation in Chapter 1 is the open question: it may or may not count, so do it and keep a save from that chapter.",
+      "guide": "Eighteen meditation spots, with one early extra that nobody has confirmed either way.\n1. Work through the meditation spots around Leonida and sit at each one; the counter runs to 18 in total. [S4]\n2. Bring both protagonists to a spot where you can, because meditating with the pair together is reported to count twice toward the total. [S2]\n3. In Chapter 1, after the mission Down to Earth, follow Lucia to the balcony at Jason's house and choose Accept when she offers to meditate. That session adds one to the Progress counter but is not flagged as a Meditation Spot, so it is unclear whether the trophy needs it. [S3]\n4. Keep a manual save from Chapter 1 before you move on: there is no mission replay and no New Game+, so a missed story-side meditation cannot be recovered later. [S3]\n5. Treat the trophy as potentially missable even though the official description says nothing about it — do the balcony meditation on the way past rather than deciding later. [S2]",
+      "steps": [
+        {
+          "text": "Work through the meditation spots around Leonida and sit at each one; the counter runs to 18 in total.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Bring both protagonists to a spot where you can, because meditating with the pair together is reported to count twice toward the total.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "In Chapter 1, after the mission Down to Earth, follow Lucia to the balcony at Jason's house and choose Accept when she offers to meditate. That session adds one to the Progress counter but is not flagged as a Meditation Spot, so it is unclear whether the trophy needs it.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Keep a manual save from Chapter 1 before you move on: there is no mission replay and no New Game+, so a missed story-side meditation cannot be recovered later.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Treat the trophy as potentially missable even though the official description says nothing about it — do the balcony meditation on the way past rather than deciding later.",
+          "cite": ["S2"]
+        }
+      ],
+      "disagree": [
+        {
+          "topic": "Is Positive Mental Attitude actually missable?",
+          "sides": [
+            {
+              "claim": "Potentially missable, but unconfirmed: the Chapter 1 balcony meditation may or may not be required for the trophy, so it should not be skipped.",
+              "source": "S2"
+            },
+            {
+              "claim": "The same cautious reading — the early meditation raises the counter without being a Meditation Spot, and whether it is required is currently unclear.",
+              "source": "S3"
+            },
+            {
+              "claim": "Missable trophies: None.",
+              "source": "S6"
+            }
+          ],
+          "call": "Our call: treat it as potentially missable (unconfirmed). Do the Chapter 1 balcony meditation and keep a Chapter 1 save — the cost is a minute, and there is no mission replay if the cautious reading turns out to be right."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "type": "Side / character questline",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "partly-confirmed",
+      "guide_short": "Hunt one unique animal from Bret's Target Decks. Which animal actually triggers the trophy was still being confirmed.",
+      "guide": "Bret's hunting line asks for a unique animal, but the trigger species is the unsettled part.\n1. Start Bret's hunting questline, which opens in Chapter 2. [S2]\n2. Work through his Target Decks — the deck jobs are where the unique animals are assigned. [S2]\n3. Hunt a unique animal from one of those decks and the trophy should follow, though the source had not confirmed which species is the one that counts. [S2]\n4. Keep clearing Target Decks if the trophy has not appeared; the 100% checklist wants all 15 of them anyway. [S2]",
+      "steps": [
+        {
+          "text": "Start Bret's hunting questline, which opens in Chapter 2.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Work through his Target Decks — the deck jobs are where the unique animals are assigned.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Hunt a unique animal from one of those decks and the trophy should follow, though the source had not confirmed which species is the one that counts.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Keep clearing Target Decks if the trophy has not appeared; the 100% checklist wants all 15 of them anyway.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "type": "Collectible",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 3,
+        "unit": "sets"
+      },
+      "guide_short": "Finish any three Collectible Card sets. You do not need the whole collection — three completed sets is the bar.",
+      "guide": "Three complete card sets, chosen freely from the ones on offer.\n1. Pick up Collectible Cards as you travel; the sets are the groups those cards belong to. [S2]\n2. Complete any three sets rather than spreading cards thin across all of them — the counter stops at 3. [S2]\n3. Check the set progress before hunting the last few cards of a set, so you finish three instead of half-finishing six. [S2]",
+      "steps": [
+        {
+          "text": "Pick up Collectible Cards as you travel; the sets are the groups those cards belong to.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Complete any three sets rather than spreading cards thin across all of them — the counter stops at 3.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Check the set progress before hunting the last few cards of a set, so you finish three instead of half-finishing six.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "type": "Collectible / exploration",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 100,
+        "unit": "locations"
+      },
+      "guide_short": "Use the WAiNK phone app at 100 different locations. This is a travel trophy, best folded into other errands.",
+      "guide": "A hundred WAiNK check-ins, one per location, spread across the map.\n1. Open the WAiNK app on the in-game phone and use it at a location; the counter starts at zero and runs to 100. [S4]\n2. Repeat at new places rather than the same one — the trophy counts distinct locations. [S2]\n3. Fold the check-ins into other work, since vehicle scanning for Whip It Good runs through the same app. [S2]",
+      "steps": [
+        {
+          "text": "Open the WAiNK app on the in-game phone and use it at a location; the counter starts at zero and runs to 100.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Repeat at new places rather than the same one — the trophy counts distinct locations.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Fold the check-ins into other work, since vehicle scanning for Whip It Good runs through the same app.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "type": "Activity / completion",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 50,
+        "unit": "challenges"
+      },
+      "guide_short": "Clear 50 of the game's 80 Challenges. The 100% checklist wants 70, so this one arrives well before the completion grind ends.",
+      "guide": "Fifty Challenges out of a pool of eighty — the trophy is the easier half of the same work the checklist asks for.\n1. Pick up Challenges around the map as they become available and complete them one by one; the counter runs to 50. [S2]\n2. Do not worry about finishing the whole set: the trophy stops at 50 while the game holds 80. [S3]\n3. Plan to go further if you want A Long Road, because that checklist requires 70 of the 80. [S2]",
+      "steps": [
+        {
+          "text": "Pick up Challenges around the map as they become available and complete them one by one; the counter runs to 50.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not worry about finishing the whole set: the trophy stops at 50 while the game holds 80.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Plan to go further if you want A Long Road, because that checklist requires 70 of the 80.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "type": "Misc / partner",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "With your partner along, get a four-star Wanted Level and then shake it off. The partner here is the in-game one, not another player.",
+      "guide": "A four-star chase that you end cleanly with your partner beside you.\n1. Wait until Chapter 2 or later, when the source says your partner can be present for this. [S2]\n2. Bring your Wanted Level up to four stars while the partner is with you — the trophy is specific about the four-star tier. [S2]\n3. Break line of sight and get clear of the search area so the level drops, and stay out of trouble until it is fully gone. [S2]",
+      "steps": [
+        {
+          "text": "Wait until Chapter 2 or later, when the source says your partner can be present for this.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Bring your Wanted Level up to four stars while the partner is with you — the trophy is specific about the four-star tier.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Break line of sight and get clear of the search area so the level drops, and stay out of trouble until it is fully gone.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "type": "Misc / robbery",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Rob three shops in a row with your partner while staying wanted the whole time. Breaking the chain resets it.",
+      "guide": "Three robberies in one continuous spree, with the police never called off in between.\n1. Have your partner with you before starting — the trophy requires the pair. [S2]\n2. Rob the first shop, then move straight to another without letting the Wanted Level clear. [S2]\n3. Take a third shop while still wanted; the chain only counts if all three run back-to-back. [S2]\n4. Lose the police afterwards if you like — the trophy needs the streak, not a clean escape. [S2]",
+      "steps": [
+        {
+          "text": "Have your partner with you before starting — the trophy requires the pair.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Rob the first shop, then move straight to another without letting the Wanted Level clear.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take a third shop while still wanted; the chain only counts if all three run back-to-back.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Lose the police afterwards if you like — the trophy needs the streak, not a clean escape.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "type": "Collectible / exploration",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": {
+        "target": 100,
+        "unit": "vehicles"
+      },
+      "guide_short": "Scan 100 different vehicles with the WAiNK app. You can do it without driving them, and the 100% checklist eventually wants 200.",
+      "guide": "A hundred distinct vehicle scans through the phone app, with no need to get behind the wheel.\n1. Use the WAiNK app to scan vehicles you come across; the counter runs to 100. [S4]\n2. Scan new models rather than repeats — the trophy counts different vehicles. [S2]\n3. Note that scanning is enough on its own; the source says no driving is required for the discovery to register. [S2]\n4. Keep scanning past 100 if you are heading for A Long Road, which asks for 200. [S2]",
+      "steps": [
+        {
+          "text": "Use the WAiNK app to scan vehicles you come across; the counter runs to 100.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Scan new models rather than repeats — the trophy counts different vehicles.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Note that scanning is enough on its own; the source says no driving is required for the discovery to register.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Keep scanning past 100 if you are heading for A Long Road, which asks for 200.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "type": "Misc / combat",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Drop five enemies inside one Combat Focus activation. All five have to fall before the ability runs out.",
+      "guide": "One Combat Focus window, five takedowns — the count resets when the ability ends.\n1. Start a fight with a group of enemies so there are at least five available at once. [S2]\n2. Activate Combat Focus and take the enemies down inside that single use of it. [S2]\n3. Aim for the five kills without letting the ability lapse; starting a second activation restarts the count. [S2]",
+      "steps": [
+        {
+          "text": "Start a fight with a group of enemies so there are at least five available at once.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Activate Combat Focus and take the enemies down inside that single use of it.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Aim for the five kills without letting the ability lapse; starting a second activation restarts the count.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "type": "Misc",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Steal an airliner from a VCIA departure gate and fly it clear of the airport. Planes parked elsewhere on the airfield do not count.",
+      "guide": "This one is an airport heist in miniature: board a gate-parked jet and leave without permission.\n1. Go to VCIA and find a large passenger jet docked at a departure gate rather than parked out on the apron. [S2]\n2. Take the aircraft and get it airborne. [S2]\n3. Fly roughly a kilometre away from the airport to complete the unscheduled departure — the source notes that airfield-parked planes do not trigger it. [S2]",
+      "steps": [
+        {
+          "text": "Go to VCIA and find a large passenger jet docked at a departure gate rather than parked out on the apron.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take the aircraft and get it airborne.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Fly roughly a kilometre away from the airport to complete the unscheduled departure — the source notes that airfield-parked planes do not trigger it.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "type": "Misc / combat",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "partly-confirmed",
+      "guide_short": "Steal a Rhino tank from the air station and take enemies down while you are inside it. The source confirms the tank and the kills but never says how many, so the honest instruction is to keep going until it pops.",
+      "guide": "The description is a joke about the tank, and the method is mostly settled — the one blank is the body count.\n1. Travel to the air station where the Rhino tank is kept, which is the location the source names for this trophy. [S2]\n2. Steal the tank and stay in the driver's seat rather than bailing out on foot. [S2]\n3. Defeat enemies from inside the tank and keep at it until the trophy unlocks. [S2]\n4. Do not expect a fixed number to aim for: the source does not state the exact kill count, so there is no published threshold to stop at. [S2]",
+      "steps": [
+        {
+          "text": "Travel to the air station where the Rhino tank is kept, which is the location the source names for this trophy.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Steal the tank and stay in the driver's seat rather than bailing out on foot.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Defeat enemies from inside the tank and keep at it until the trophy unlocks.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not expect a fixed number to aim for: the source does not state the exact kill count, so there is no published threshold to stop at.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "type": "Misc / robbery",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Clear a jewellery store with nobody noticing you. The source ties the quiet approach to a Chapter 3 questline tool and a safe code you pick up for the store.",
+      "guide": "Quiet is the whole trophy here: a jewellery job that goes loud is a failed attempt even if the safe ends up empty.\n1. Play into Chapter 3 and pick up the questline that gives you the tool the source associates with a silent jewellery job. [S2]\n2. Get the store's safe code as part of that setup rather than trying to force the safe open. [S2]\n3. Work the store without being spotted — the official description asks for undetected, so treat any alarm or witness as a reason to walk away and set the job up again. [S2]\n4. Finish the robbery and leave; the trophy follows the clean version, not the noisy one. [S2]",
+      "steps": [
+        {
+          "text": "Play into Chapter 3 and pick up the questline that gives you the tool the source associates with a silent jewellery job.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Get the store's safe code as part of that setup rather than trying to force the safe open.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Work the store without being spotted — the official description asks for undetected, so treat any alarm or witness as a reason to walk away and set the job up again.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Finish the robbery and leave; the trophy follows the clean version, not the noisy one.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "type": "Misc / robbery",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 5, "unit": "vaults" },
+      "guide_short": "Five bank vault jobs, each ending in a clean escape. The vaults open up through a Chapter 4 optional mission, and eight exist in total if you later want the 100% checklist.",
+      "guide": "A silver for the vault grind, and the good news is that the trophy stops well short of the full set.\n1. Reach the Chapter 4 optional mission that unlocks the bank vault robberies. [S2]\n2. Rob a vault and get out of the building and away from the response — the job counts as done once you have escaped. [S2]\n3. Repeat on further vaults until five are banked; the PSNProfiles counter for this trophy tops out at five. [S4]\n4. Note that eight vaults exist in total and the 100% checklist wants all of them, so this trophy is only part of that larger job. [S2]",
+      "steps": [
+        {
+          "text": "Reach the Chapter 4 optional mission that unlocks the bank vault robberies.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Rob a vault and get out of the building and away from the response — the job counts as done once you have escaped.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Repeat on further vaults until five are banked; the PSNProfiles counter for this trophy tops out at five.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Note that eight vaults exist in total and the 100% checklist wants all of them, so this trophy is only part of that larger job.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "type": "Misc / robbery",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Take down an armoured truck and get away with it. The source adds that a vault robbery followed by an escape counts for this trophy too.",
+      "guide": "One armoured truck, one escape, and a useful fallback if trucks are not cooperating.\n1. Stop an armoured truck and rob it. [S2]\n2. Escape the scene after the robbery rather than dying or being arrested. [S2]\n3. Alternatively, bank a vault robbery and escape it — the source says that also satisfies this trophy. [S2]",
+      "steps": [
+        {
+          "text": "Stop an armoured truck and rob it.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Escape the scene after the robbery rather than dying or being arrested.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Alternatively, bank a vault robbery and escape it — the source says that also satisfies this trophy.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "type": "Exploration",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 52, "unit": "areas" },
+      "guide_short": "Uncover the whole map. PSNProfiles counts 52 areas, and flying is the quickest way to sweep the state.",
+      "guide": "No fighting and no collecting — this is the map-opening trophy, and it rewards altitude.\n1. Get into an aircraft, which the source calls the fastest way to uncover ground. [S2]\n2. Sweep Leonida in long passes, region by region, until the area counter reaches its total of 52. [S4]\n3. Check the counter as you go rather than guessing, and finish off any areas still shaded on the map. [S4]",
+      "steps": [
+        {
+          "text": "Get into an aircraft, which the source calls the fastest way to uncover ground.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Sweep Leonida in long passes, region by region, until the area counter reaches its total of 52.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Check the counter as you go rather than guessing, and finish off any areas still shaded on the map.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "type": "Activity / robbery",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 9, "unit": "gangs" },
+      "guide_short": "Hit one illegal operation for every gang in Leonida — nine of them. The 100% checklist then asks for all 39 operations, so this trophy is the shallow end of that pool.",
+      "guide": "Nine gangs, one operation each: spread the robberies around instead of clearing a single gang's turf.\n1. Find the illegal operations dotted around the state; each one is tied to a particular gang. [S4]\n2. Rob one operation for each of the nine gangs, so every gang has been hit at least once. [S4]\n3. Track the count against the nine-gang counter rather than counting operations you have already cleared. [S4]\n4. Remember the 100% checklist wants all 39 operations, which is a much bigger job than this trophy. [S4]",
+      "steps": [
+        {
+          "text": "Find the illegal operations dotted around the state; each one is tied to a particular gang.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Rob one operation for each of the nine gangs, so every gang has been hit at least once.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Track the count against the nine-gang counter rather than counting operations you have already cleared.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Remember the 100% checklist wants all 39 operations, which is a much bigger job than this trophy.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "type": "Misc",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "to-be-confirmed",
+      "guide_short": "Drink a cocktail somewhere with a view on Ocean Beach. Nobody has published the exact trigger yet, so the honest answer is that the method is still open.",
+      "guide": "Method to be confirmed — the trophy is real and its description is official, but no retrieved source has the steps, so nothing below is a verified route.\n1. Treat the exact method as unconfirmed: the source that lists this trophy says outright that the steps were unknown at its last update. [S2]\n2. Read the official description literally as a pointer, not a recipe: it asks for a cocktail, a view, and Ocean Beach, so the inference is a drink at a beachfront bar or lookout on Ocean Beach. [S2]\n3. Do not commit to a specific address from this guide — no source names one, and any location quoted elsewhere should be re-verified in-game before you rely on it. [S2]",
+      "steps": [
+        {
+          "text": "Treat the exact method as unconfirmed: the source that lists this trophy says outright that the steps were unknown at its last update.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Read the official description literally as a pointer, not a recipe: it asks for a cocktail, a view, and Ocean Beach, so the inference is a drink at a beachfront bar or lookout on Ocean Beach.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not commit to a specific address from this guide — no source names one, and any location quoted elsewhere should be re-verified in-game before you rely on it.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "type": "Misc",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "to-be-confirmed",
+      "guide_short": "Drive a car out through a showroom window. The description is clear about the stunt and silent about the where, and no source has published the route yet.",
+      "guide": "Method to be confirmed — the idea is obvious from the description, but the details are not sourced, so this guide stops at inference.\n1. Mark this as unconfirmed: the listing source says the exact steps were still unknown when it was last updated. [S2]\n2. Take the description as the clue it is: a vehicle showroom, a car, and a smash through the glass on the way out — an inference from the wording, not a documented method. [S2]\n3. Leave the location and the vehicle open; no retrieved source names either, so any specific showroom you read about is a claim to check in-game first. [S2]",
+      "steps": [
+        {
+          "text": "Mark this as unconfirmed: the listing source says the exact steps were still unknown when it was last updated.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take the description as the clue it is: a vehicle showroom, a car, and a smash through the glass on the way out — an inference from the wording, not a documented method.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Leave the location and the vehicle open; no retrieved source names either, so any specific showroom you read about is a claim to check in-game first.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "type": "Misc / activity",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "This one is a gang operation at the Kolt & Associates alley in Port Gellhorn: clear it, take the three valuables, then shake the police.",
+      "guide": "Bowling alley in name, robbery in practice — the trophy comes from the operation run inside it.\n1. Go to the Kolt & Associates bowling alley in Port Gellhorn. [S2]\n2. Run the gang operation there and collect the three valuables the source lists for the alley. [S2]\n3. Lose the police afterwards; the trophy pops once you are clear of them rather than the moment you grab the loot. [S2]",
+      "steps": [
+        {
+          "text": "Go to the Kolt & Associates bowling alley in Port Gellhorn.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Run the gang operation there and collect the three valuables the source lists for the alley.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Lose the police afterwards; the trophy pops once you are clear of them rather than the moment you grab the loot.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "type": "Misc / stats",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "guide_short": "Max out Strength on both protagonists. Training while your partner is present is reported to raise both characters at once, which halves the work.",
+      "guide": "The description hides a stat grind: this is Strength, for Jason and Lucia both.\n1. Train Strength up to maximum on both protagonists. [S2]\n2. Train with your partner present where you can, because the source reports that a session done that way trains both characters at the same time. [S2]\n3. Check each character's Strength stat is actually full before assuming the trophy is done. [S2]",
+      "steps": [
+        {
+          "text": "Train Strength up to maximum on both protagonists.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Train with your partner present where you can, because the source reports that a session done that way trains both characters at the same time.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Check each character's Strength stat is actually full before assuming the trophy is done.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "type": "Misc / stats",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 500, "unit": "actions" },
+      "guide_short": "Five hundred actions that shift your Criminal Profile. The catch is the permanent 'Irredeemable' state at the far end of that scale — the source warns you off pushing all the way there.",
+      "guide": "A long counter rather than a hard challenge, but there is a state you do not want to lock yourself into along the way.\n1. Accumulate actions that change the Criminal Profile — the PSNProfiles counter for this trophy runs to 500. [S4]\n2. Spread the actions out and keep an eye on the profile rather than shoving it hard in one direction. [S2]\n3. Steer clear of the permanent 'Irredeemable' criminal profile: the source flags it as a state to avoid, and it is a character-state warning rather than a trophy missable. [S2]\n4. Keep going until the counter reaches 500, checking it as you play rather than trying to finish it in one session. [S4]",
+      "steps": [
+        {
+          "text": "Accumulate actions that change the Criminal Profile — the PSNProfiles counter for this trophy runs to 500.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Spread the actions out and keep an eye on the profile rather than shoving it hard in one direction.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Steer clear of the permanent 'Irredeemable' criminal profile: the source flags it as a state to avoid, and it is a character-state warning rather than a trophy missable.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Keep going until the counter reaches 500, checking it as you play rather than trying to finish it in one session.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "type": "Misc",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "to-be-confirmed",
+      "guide_short": "The description hints at finally succeeding on a second attempt. No source has pinned down the actual trigger, so this guide labels the reading as inference and stops there.",
+      "guide": "Method to be confirmed — a one-line description and no documented trigger, so everything below is inference and nothing is invented.\n1. Record the method as unconfirmed: the source explicitly says the exact trigger was unknown at its last update. [S2]\n2. Take the description as the only evidence: 'second time's the charm' points to coming back after a first failure and succeeding on the retry, which is a reading of the wording rather than a known method. [S2]\n3. Do not grind a specific named activity on this guide's authority — no source says which one counts, so verify in-game before you build a routine around it. [S2]",
+      "steps": [
+        {
+          "text": "Record the method as unconfirmed: the source explicitly says the exact trigger was unknown at its last update.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take the description as the only evidence: 'second time's the charm' points to coming back after a first failure and succeeding on the retry, which is a reading of the wording rather than a known method.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not grind a specific named activity on this guide's authority — no source says which one counts, so verify in-game before you build a routine around it.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "type": "Misc / Easter egg",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "to-be-confirmed",
+      "guide_short": "Something strange happens somewhere in Leonida and you are there for it. The trigger is unpublished, so treat this as an Easter egg to stumble into rather than a step-by-step.",
+      "guide": "Method to be confirmed — the description is a reaction rather than an instruction, and no retrieved source documents the event.\n1. Treat the trigger as unknown: the listing source says the exact steps were unconfirmed when it was last updated. [S2]\n2. Work from the description alone: 'what the hell just happened' reads as a strange event or Easter egg somewhere in Leonida, which is an inference from the wording and nothing more. [S2]\n3. Do not chase a specific location from this guide — none is sourced, and the strange-event angle is the only lead worth following until a guide documents it. [S2]",
+      "steps": [
+        {
+          "text": "Treat the trigger as unknown: the listing source says the exact steps were unconfirmed when it was last updated.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Work from the description alone: 'what the hell just happened' reads as a strange event or Easter egg somewhere in Leonida, which is an inference from the wording and nothing more.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Do not chase a specific location from this guide — none is sourced, and the strange-event angle is the only lead worth following until a guide documents it.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "type": "Misc / combat",
+      "hidden": true,
+      "missable_status": "none",
+      "method_status": "inferred",
+      "guide_short": "Knock people over with a melee attack thrown from a moving vehicle. The method is inferred from the description, and one guide's timed bike-kick version is a claim worth re-checking rather than a confirmed route.",
+      "guide": "The description says melee drive-by; how many hits, and with what, is not settled — so this guide labels the method inferred.\n1. Start from the description, which is the only solid evidence: hit people with a melee attack from a vehicle rather than shooting them. That reading is inferred, not confirmed. [S2]\n2. Note the one guide claim on record: a timed approach with a bike kick, taking down ten pedestrians inside sixty seconds. Record it as a claim to re-verify, not as established fact. [S3]\n3. Treat both the count and the vehicle as unconfirmed, and re-check in-game before repeating a specific routine. [S2]",
+      "steps": [
+        {
+          "text": "Start from the description, which is the only solid evidence: hit people with a melee attack from a vehicle rather than shooting them. That reading is inferred, not confirmed.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Note the one guide claim on record: a timed approach with a bike kick, taking down ten pedestrians inside sixty seconds. Record it as a claim to re-verify, not as established fact.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Treat both the count and the vehicle as unconfirmed, and re-check in-game before repeating a specific routine.",
+          "cite": ["S2"]
+        }
+      ],
+      "disagree": [
+        {
+          "topic": "Ten Pin: description-only inference or a timed bike-kick method?",
+          "sides": [
+            {
+              "claim": "The description points to knocking people down with a melee drive-by; nothing more specific is confirmed.",
+              "source": "S2"
+            },
+            {
+              "claim": "A timed method: ten pedestrians taken down with a bike kick inside sixty seconds.",
+              "source": "S3"
+            }
+          ],
+          "call": "Our call: label the method inferred from the description and show the timed bike-kick version as an unverified guide claim to re-check."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "type": "Misc / money",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 250000, "unit": "dollars" },
+      "guide_short": "Launder a running total of $250,000 in Marked Bills through fences and contacts. The Dye Pack Jammer from the Chapter 3 story is the unlock that makes it possible.",
+      "guide": "A cumulative money trophy rather than a single score, so it comes along with the robbery content you are already doing.\n1. Play the story into Chapter 3 and pick up the Dye Pack Jammer unlock, which the sources tie to laundering Marked Bills. [S2]\n2. Take the Marked Bills you collect to fences and contacts and launder them. [S3]\n3. Keep laundering until the cumulative figure reaches $250,000; the PSNProfiles counter tracks exactly that total. [S4]",
+      "steps": [
+        {
+          "text": "Play the story into Chapter 3 and pick up the Dye Pack Jammer unlock, which the sources tie to laundering Marked Bills.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Take the Marked Bills you collect to fences and contacts and launder them.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Keep laundering until the cumulative figure reaches $250,000; the PSNProfiles counter tracks exactly that total.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "type": "Misc / money",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 100000, "unit": "dollars" },
+      "guide_short": "Spend $100,000 in shops, counted across everything you buy. It is cumulative, so ordinary shopping and ammo runs chip away at it.",
+      "guide": "No finesse needed — this is a spending counter that fills as you buy things.\n1. Buy from shops as you play rather than hoarding cash; the total is cumulative across purchases. [S4]\n2. Watch the counter climb toward $100,000 and keep shopping until it is full. [S4]\n3. Leave this late if you prefer: it needs money rather than a particular point in the story. [S2]",
+      "steps": [
+        {
+          "text": "Buy from shops as you play rather than hoarding cash; the total is cumulative across purchases.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Watch the counter climb toward $100,000 and keep shopping until it is full.",
+          "cite": ["S4"]
+        },
+        {
+          "text": "Leave this late if you prefer: it needs money rather than a particular point in the story.",
+          "cite": ["S2"]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "type": "Collectible / property",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 8, "unit": "garages" },
+      "guide_short": "Buy all eight purchasable garages through the phone's property app, for roughly $160,000 in total. The four garages the story hands you do not count.",
+      "guide": "Property shopping, with one trap: story garages are not part of the eight.\n1. Get past the Chapter 2 mission that opens property buying, then use the real-estate app on the phone. [S2]\n2. Buy the eight garages that are actually for sale — the four garages you are given through the story do not count toward the trophy. [S3]\n3. Budget around $160,000 for the full set. [S2]\n4. Check the counter reads eight once the last purchase clears. [S4]",
+      "steps": [
+        {
+          "text": "Get past the Chapter 2 mission that opens property buying, then use the real-estate app on the phone.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Buy the eight garages that are actually for sale — the four garages you are given through the story do not count toward the trophy.",
+          "cite": ["S3"]
+        },
+        {
+          "text": "Budget around $160,000 for the full set.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Check the counter reads eight once the last purchase clears.",
+          "cite": ["S4"]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "type": "Misc / activity",
+      "hidden": false,
+      "missable_status": "none",
+      "method_status": "confirmed",
+      "counter": { "target": 10, "unit": "vehicles" },
+      "guide_short": "Register ten vehicles in the Scooter Bros app. You get the app from a Chapter 2 questline, each registration costs money, and you need spare garage space to hold them.",
+      "guide": "Small, cheap and easy to forget: ten registrations in an app you unlock mid-story.\n1. Finish the Chapter 2 questline that gives you the Scooter Bros app. [S2]\n2. Make sure you have free garage space before you start registering, since the vehicles need somewhere to live. [S2]\n3. Register ten vehicles through the app and pay the registration fee each time. [S2]",
+      "steps": [
+        {
+          "text": "Finish the Chapter 2 questline that gives you the Scooter Bros app.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Make sure you have free garage space before you start registering, since the vehicles need somewhere to live.",
+          "cite": ["S2"]
+        },
+        {
+          "text": "Register ten vehicles through the app and pay the registration fee each time.",
+          "cite": ["S2"]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "name": "Exophase — Grand Theft Auto VI Trophies (PS5)",
+      "date": "no publication date shown; accessed 20 Nov 2026",
+      "carried": "All 55 names and descriptions in official order, the 1,350-point total, and an earn-rate snapshot from launch week."
+    },
+    {
+      "id": "S2",
+      "name": "GTABase — GTA 6 Trophy Guide & Achievements List (PS5 & Xbox Series X|S)",
+      "date": "updated 18 Nov 2026",
+      "carried": "The grade printed against every trophy, the 28 hidden flags, and a short factual unlock note per trophy — our primary source for grades and per-trophy method detail."
+    },
+    {
+      "id": "S3",
+      "name": "PowerPyx — GTA 6 Trophy Guide & Roadmap",
+      "date": "18 Nov 2026",
+      "carried": "The roadmap numbers (difficulty, hours, saves, cheats, no mission replay), the Chapter 1 meditation warning, and per-trophy guide detail."
+    },
+    {
+      "id": "S4",
+      "name": "PSNProfiles — Grand Theft Auto VI Trophies (game #43531)",
+      "date": "no publication date shown; accessed 20 Nov 2026",
+      "carried": "The same 55 names and descriptions, PSN rarity figures, the 1/2/6/46 grade totals, and the in-game progress counters we quote (stunts, meditations, areas, dollars and so on)."
+    },
+    {
+      "id": "S5",
+      "name": "TrueTrophies — Grand Theft Auto VI Trophies and launch news article",
+      "date": "no date captured in retrieved text; accessed 20 Nov 2026",
+      "carried": "Independent confirmation of the 46 bronze / 6 silver / 2 gold / 1 platinum split and of the 28 secret trophies."
+    },
+    {
+      "id": "S6",
+      "name": "Push Square — GTA 6: Trophy Guide & Roadmap (work in progress)",
+      "date": "work in progress, launch week; accessed 20 Nov 2026",
+      "carried": "The dissenting roadmap: 250+ hours and 'up to 300' in its intro, a 'Missable: None' box, and instructions for a little over half the list at access time."
+    },
+    {
+      "id": "S7",
+      "name": "GTA6 Field Guide — GTA 6 trophy list and trophies & achievements guide",
+      "date": "updated 19 Nov 2026",
+      "carried": "An independent grade-by-grade listing naming the platinum, both golds and all six silvers, plus a repeat of the 15-save-slot advice."
+    },
+    {
+      "id": "S8",
+      "name": "GamesRadar+ — Complete GTA 6 Trophy and Achievement list",
+      "date": "published 18 Nov 2026",
+      "carried": "Corroboration of the 55-award total and the return of the 100% completion trophy."
+    },
+    {
+      "id": "S9",
+      "name": "Insider Gaming — Complete GTA 6 Trophy List",
+      "date": "18 Nov 2026",
+      "carried": "A secondary list source that other outlets cite for the same 55 names and descriptions."
+    },
+    {
+      "id": "S10",
+      "name": "VICE — GTA 6 PS5 Trophy List Revealed",
+      "date": "18 Nov 2026",
+      "carried": "Corroboration of the 55-trophy total and that the platinum requires the other 54."
+    },
+    {
+      "id": "S11",
+      "name": "Games.gg — GTA 6 Trophy List: How to Unlock All",
+      "date": "no date captured in retrieved text; accessed 20 Nov 2026",
+      "carried": "The 27 visible plus 28 hidden split, the 55 base-game total, and confirmation that none of the trophies are online."
+    },
+    {
+      "id": "S12",
+      "name": "PlayStation Store — Grand Theft Auto VI (official store page)",
+      "date": "release listed 19 Nov 2026; no publication date shown; accessed 20 Nov 2026",
+      "carried": "Official store facts only: PS5 platform, single-player, Rockstar Games as publisher, 19 November 2026 release. It carries no trophy list."
+    },
+    {
+      "id": "S13",
+      "name": "GTA Wiki — Achievements and Trophies in GTA VI",
+      "date": "no date captured in retrieved text; accessed 20 Nov 2026",
+      "carried": "The same names and descriptions in the same order, plus the conflicting note that Xbox has 54 achievements where PlayStation has 55 trophies."
+    }
+  ],
+  "disagreements": [
+    {
+      "topic": "How many trophies are missable: one, potentially, or none?",
+      "sides": [
+        {
+          "claim": "Potentially one — Positive Mental Attitude — and even that is unconfirmed, because it is unclear whether the Chapter 1 balcony meditation is required.",
+          "source": "S2"
+        },
+        {
+          "claim": "The same cautious reading: the early meditation raises the counter without being a flagged Meditation Spot, so whether the trophy needs it is unclear.",
+          "source": "S3"
+        },
+        {
+          "claim": "Missable trophies: None.",
+          "source": "S6"
+        }
+      ],
+      "call": "Our call: keep the cautious label. Show #28 as potentially missable and unconfirmed, tell players to do the Chapter 1 meditation and keep a Chapter 1 save, and never state flatly that nothing is missable."
+    },
+    {
+      "topic": "How long the platinum takes",
+      "sides": [
+        {
+          "claim": "Around 200 hours.",
+          "source": "S2"
+        },
+        {
+          "claim": "Around 200 hours, split roughly 60–80 for the story and about 100 more for the 100% checklist.",
+          "source": "S3"
+        },
+        {
+          "claim": "250+ hours in its roadmap box, and 'up to 300 hours or more' in its introduction.",
+          "source": "S6"
+        }
+      ],
+      "call": "Our call: headline ~200 hours and show the 250–300 hour figure as the other side, attributed, rather than averaging the two into a number no source states."
+    },
+    {
+      "topic": "Which stranger strands count toward Strangers & Freaks (#25)",
+      "sides": [
+        {
+          "claim": "Eight qualifying strands are needed, some named questlines do not count, and the full qualifying set was still being confirmed at the source's update date.",
+          "source": "S2"
+        },
+        {
+          "claim": "Eight strands are required; the trophy is not part of 100% and can be finished in post-story free-roam.",
+          "source": "S3"
+        }
+      ],
+      "call": "Our call: ask for eight strands, flag that the qualifying list was still being confirmed, and point players at the in-game counter instead of a guessed list of names."
+    },
+    {
+      "topic": "Which animal triggers Fair Game (#29)",
+      "sides": [
+        {
+          "claim": "Hunt a unique animal from Bret's Target Decks, but which animal counts was not confirmed at the source's update date.",
+          "source": "S2"
+        },
+        {
+          "claim": "Bret's hunting questline starts in Chapter 2 and the 100% checklist needs all 15 Target Decks, so working through the decks is the dependable route.",
+          "source": "S3"
+        }
+      ],
+      "call": "Our call: say plainly that the specific animal is unconfirmed, and treat working through Bret's Target Decks as the safe route rather than naming one animal."
+    },
+    {
+      "topic": "Ten Pin (#51): description-only inference or a timed bike-kick method?",
+      "sides": [
+        {
+          "claim": "The description points to knocking people down with a melee drive-by; nothing more specific is confirmed.",
+          "source": "S2"
+        },
+        {
+          "claim": "A timed method: ten pedestrians taken down with a bike kick inside sixty seconds.",
+          "source": "S3"
+        }
+      ],
+      "call": "Our call: label the method inferred from the description and present the timed bike-kick version as an unverified guide claim to re-check in-game."
+    },
+    {
+      "topic": "Do the two trackers agree on earn rates?",
+      "sides": [
+        {
+          "claim": "Just Like Paradise at 99.99% and Paradise Lost at 0.73%, with 4 Platinum Club members.",
+          "source": "S1"
+        },
+        {
+          "claim": "Just Like Paradise at 93.7% / 97.03% and Paradise Lost at 2.3% / 2.46%, with 0 platinum achievers on the same day.",
+          "source": "S4"
+        }
+      ],
+      "call": "Our call: the trackers use different player pools and update at different speeds, so keep every figure labelled with its tracker and never merge them into one percentage. Launch-week numbers are colour, not data."
+    },
+    {
+      "topic": "Does Xbox have 54 or 55 achievements?",
+      "sides": [
+        {
+          "claim": "54 Xbox achievements against 55 PlayStation trophies.",
+          "source": "S13"
+        },
+        {
+          "claim": "55 on both platforms, with the platinum equivalent as a 0G 'Mythic' achievement on Xbox.",
+          "source": "S2"
+        }
+      ],
+      "call": "Our call: this entry is PS5 only, so the Xbox count stays out of the tracker. The 55 PlayStation trophies are what every other source agrees on."
+    }
+  ]
+}

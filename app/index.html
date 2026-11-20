@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida 55 — GTA VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="A field-atlas guide and progress tracker for the 55 Grand Theft Auto VI trophies on PlayStation 5. Works offline; progress stays in this browser.">
+<meta name="color-scheme" content="light">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to the guide</a>
+
+<header class="masthead">
+  <div class="masthead__brand">
+    <p class="masthead__kicker">Field atlas of a 55-trophy list</p>
+    <h1 class="masthead__title">
+      <span class="masthead__name">Leonida <em>55</em></span>
+      <span class="masthead__sep" aria-hidden="true">—</span>
+      <span class="masthead__sub">GTA VI Trophy Guide &amp; Tracker</span>
+    </h1>
+  </div>
+  <p class="masthead__meta" id="masthead-meta">Grand Theft Auto VI · PlayStation 5</p>
+</header>
+
+<div class="audit" id="audit-strip" role="status" aria-live="polite">
+  <span class="audit__tag">Audit</span>
+  <span class="audit__item">reading the trophy list…</span>
+</div>
+
+<section class="progress" id="progress-header" aria-label="Your progress">
+  <div class="progress__earned">
+    <span class="progress__label">Earned</span>
+    <span class="progress__count"><strong id="earned-count">0</strong><span class="progress__of" id="total-count">/55</span></span>
+  </div>
+  <ul class="progress__grades" id="grade-counters" aria-label="Earned per grade"></ul>
+  <div class="progress__bar" aria-hidden="true"><span class="progress__fill" id="progress-fill"></span></div>
+  <div class="progress__save">
+    <span class="save-flag" id="save-flag">No saved progress yet</span>
+    <div class="progress__actions">
+      <button class="btn" id="export" type="button">Export</button>
+      <button class="btn" id="import-trigger" type="button">Import</button>
+      <input id="import" type="file" accept="application/json,.json" hidden>
+    </div>
+    <p class="progress__msg" id="import-msg" role="status" aria-live="polite"></p>
+  </div>
+</section>
+
+<div class="toolbar">
+  <label class="search" for="search">
+    <svg class="search__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+      <circle cx="7" cy="7" r="4.4" fill="none" stroke="currentColor" stroke-width="1.6"></circle>
+      <path d="M10.4 10.4 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
+    </svg>
+    <input id="search" type="search" placeholder="Search trophies, steps and sources" autocomplete="off" spellcheck="false">
+  </label>
+  <div class="filters" id="filters" role="group" aria-label="Filter the trophy list"></div>
+  <button class="btn btn--toggle" id="spoiler-toggle" type="button" aria-pressed="false">Spoilers: hidden</button>
+</div>
+
+<nav class="tabs" role="tablist" aria-label="Views">
+  <button class="tab is-active" id="tab-tracker" type="button" role="tab" aria-selected="true" aria-controls="view-tracker" data-view="tracker">Tracker</button>
+  <button class="tab" id="tab-roadmap" type="button" role="tab" aria-selected="false" aria-controls="view-roadmap" data-view="roadmap">Roadmap</button>
+  <button class="tab" id="tab-sources" type="button" role="tab" aria-selected="false" aria-controls="view-sources" data-view="sources">Sources</button>
+  <button class="tab" id="tab-missables" type="button" role="tab" aria-selected="false" aria-controls="view-missables" data-view="missables">Missables &amp; watch</button>
+</nav>
+
+<main id="main">
+  <section class="view is-active" id="view-tracker" role="tabpanel" aria-labelledby="tab-tracker">
+    <div class="tracker-grid">
+      <div class="panel panel--list">
+        <div class="panel__head">
+          <h2>Trophy list</h2>
+          <span class="panel__meta" id="list-count">—</span>
+        </div>
+        <div class="trophy-list" id="trophy-list" aria-live="polite">
+          <p class="placeholder">—</p>
+        </div>
+      </div>
+      <div class="panel panel--detail">
+        <div class="trophy-detail" id="trophy-detail" aria-live="polite">
+          <p class="placeholder">—</p>
+        </div>
+      </div>
+      <aside class="panel panel--sources" aria-labelledby="trophy-sources-title">
+        <div class="panel__head">
+          <h2 id="trophy-sources-title">Cited for this trophy</h2>
+        </div>
+        <div class="trophy-sources" id="trophy-sources">
+          <p class="placeholder">—</p>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="view" id="view-roadmap" role="tabpanel" aria-labelledby="tab-roadmap" hidden>
+    <div class="view-body" id="roadmap-body">
+      <p class="placeholder">—</p>
+    </div>
+  </section>
+
+  <section class="view" id="view-sources" role="tabpanel" aria-labelledby="tab-sources" hidden>
+    <div class="view-body" id="sources-body">
+      <p class="placeholder">—</p>
+    </div>
+  </section>
+
+  <section class="view" id="view-missables" role="tabpanel" aria-labelledby="tab-missables" hidden>
+    <div class="view-body" id="missables-body">
+      <p class="placeholder">—</p>
+    </div>
+    <section class="panel backup" id="backup-panel" aria-labelledby="backup-title">
+      <div class="panel__head">
+        <h2 id="backup-title">Progress &amp; backup</h2>
+        <span class="panel__meta">this browser only</span>
+      </div>
+      <div class="backup__body" id="backup-body">
+        <p class="placeholder">—</p>
+      </div>
+    </section>
+  </section>
+</main>
+
+<footer class="colophon">
+  <p>Leonida 55 — every step cited to one of the sources listed in the Sources view. Nothing here leaves this browser.</p>
+</footer>
+
+<noscript>
+  <p class="noscript">This tracker needs JavaScript. The guide text is also stored in <code>data/trophies.json</code>.</p>
+</noscript>
+
+<script type="module" src="js/tracker-store.js"></script>
+<script type="module" src="js/demo-seed.js"></script>
+<script type="module" src="app.js"></script>
+</body>
+</html>

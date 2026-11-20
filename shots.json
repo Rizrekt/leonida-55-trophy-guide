@@ -1,0 +1,6 @@
+[
+  { "file": "1-tracker.jpg", "path": "/?demo=1&view=tracker", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-roadmap.jpg", "path": "/?demo=1&view=roadmap", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-sources.jpg", "path": "/?demo=1&view=sources", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-missables.jpg", "path": "/?demo=1&view=missables", "viewport": { "width": 1280, "height": 800 } }
+]
