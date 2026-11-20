@@ -448,9 +448,9 @@ function detailHtml(trophy, store) {
     '<p class="detail__official"><span>Official description</span>' +
     `“${esc(trophy.description)}”</p>` +
     `<div class="detail__section"><h3>In short</h3><p class="detail__short">${short}</p></div>` +
-    `<div class="detail__section"><h3>How to get it</h3>${stepsHtml(trophy)}</div>` +
     disagreeHtml(trophy.disagree) +
     missableCallout(trophy) +
+    `<div class="detail__section"><h3>How to get it</h3>${stepsHtml(trophy)}</div>` +
     statusHtml(trophy) +
     counterHtml(trophy, store)
   );

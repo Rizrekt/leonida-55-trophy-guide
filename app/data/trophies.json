@@ -169,14 +169,14 @@
       "missable_status": "none",
       "method_status": "confirmed",
       "guide_short": "Finish the last story mission. This is one of the two golds in the set, and free-roam carries on once it is done.",
-      "guide": "Roll the credits by finishing the final story mission; the open world stays open afterwards.\n1. Play the story through to its last mission, following the chapter sequence from Chapter 1 onwards. [S2]\n2. Complete that final mission. The trophy is tied to the mission itself, not to any completion percentage. [S1]\n3. Keep playing after the credits if you still have cleanup left — free-roam continues once the story ends, so the remaining trophies stay reachable. [S2]",
+      "guide": "Roll the credits by finishing the final story mission; the open world stays open afterwards.\n1. Play the story through to its last mission, following the chapter sequence from Chapter 1 onwards. [S2]\n2. Complete that final mission — nothing in the description asks for a completion percentage. [S1]\n3. Keep playing after the credits if you still have cleanup left — free-roam continues once the story ends, so the remaining trophies stay reachable. [S2]",
       "steps": [
         {
           "text": "Play the story through to its last mission, following the chapter sequence from Chapter 1 onwards.",
           "cite": ["S2"]
         },
         {
-          "text": "Complete that final mission. The trophy is tied to the mission itself, not to any completion percentage.",
+          "text": "Complete that final mission — nothing in the description asks for a completion percentage.",
           "cite": ["S1"]
         },
         {
@@ -273,14 +273,14 @@
       "missable_status": "none",
       "method_status": "confirmed",
       "guide_short": "Finish Headliners, a Chapter 4 story mission. Automatic on the story path.",
-      "guide": "Headliners is a Chapter 4 mission; completing it is the whole job.\n1. Reach Chapter 4 and play the story missions until Headliners appears. [S2]\n2. Complete the mission. The all-caps trophy name matches the mission title on the official list. [S1]\n3. Keep going with the chapter — no side activity is involved. [S3]",
+      "guide": "Headliners is a Chapter 4 mission; completing it is the whole job.\n1. Reach Chapter 4 and play the story missions until Headliners appears. [S2]\n2. Complete the mission; it pops on completion, with nothing outside Headliners required. [S1]\n3. Keep going with the chapter — no side activity is involved. [S3]",
       "steps": [
         {
           "text": "Reach Chapter 4 and play the story missions until Headliners appears.",
           "cite": ["S2"]
         },
         {
-          "text": "Complete the mission. The all-caps trophy name matches the mission title on the official list.",
+          "text": "Complete the mission; it pops on completion, with nothing outside Headliners required.",
           "cite": ["S1"]
         },
         {
@@ -325,7 +325,7 @@
       "missable_status": "none",
       "method_status": "confirmed",
       "guide_short": "Finish Operation Savage Glory, a Chapter 5 story mission. The last of the mission-specific story trophies.",
-      "guide": "Operation Savage Glory belongs to Chapter 5 and unlocks on completion.\n1. Play the story into Chapter 5 and continue until Operation Savage Glory starts. [S2]\n2. Complete the mission; this is the final mission-specific story trophy before the endgame. [S3]\n3. Continue towards the final mission afterwards, which carries the gold for finishing the story. [S1]",
+      "guide": "Operation Savage Glory belongs to Chapter 5 and unlocks on completion.\n1. Play the story into Chapter 5 and continue until Operation Savage Glory starts. [S2]\n2. Complete the mission; this is the final mission-specific story trophy before the endgame. [S3]\n3. Continue towards the final mission afterwards, which carries the gold for finishing the story. [S2]",
       "steps": [
         {
           "text": "Play the story into Chapter 5 and continue until Operation Savage Glory starts.",
@@ -337,7 +337,7 @@
         },
         {
           "text": "Continue towards the final mission afterwards, which carries the gold for finishing the story.",
-          "cite": ["S1"]
+          "cite": ["S2"]
         }
       ]
     },
@@ -1331,15 +1331,15 @@
       "hidden": true,
       "missable_status": "none",
       "method_status": "confirmed",
-      "guide_short": "Max out Strength on both protagonists. Training while your partner is present is reported to raise both characters at once, which halves the work.",
-      "guide": "The description hides a stat grind: this is Strength, for Jason and Lucia both.\n1. Train Strength up to maximum on both protagonists. [S2]\n2. Train with your partner present where you can, because the source reports that a session done that way trains both characters at the same time. [S2]\n3. Check each character's Strength stat is actually full before assuming the trophy is done. [S2]",
+      "guide_short": "Max out Strength on both protagonists. S2 reports that training while your partner is present raises both characters at once, which halves the work.",
+      "guide": "The description hides a stat grind: this is Strength, for Jason and Lucia both.\n1. Train Strength up to maximum on both protagonists. [S2]\n2. Train with your partner present where you can: S2 reports that a session done that way trains both characters at the same time. [S2]\n3. Check each character's Strength stat is actually full before assuming the trophy is done. [S2]",
       "steps": [
         {
           "text": "Train Strength up to maximum on both protagonists.",
           "cite": ["S2"]
         },
         {
-          "text": "Train with your partner present where you can, because the source reports that a session done that way trains both characters at the same time.",
+          "text": "Train with your partner present where you can: S2 reports that a session done that way trains both characters at the same time.",
           "cite": ["S2"]
         },
         {

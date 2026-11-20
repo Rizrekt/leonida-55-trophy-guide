@@ -764,7 +764,7 @@ main { max-width: 1400px; margin: 0 auto; }
 
 /* ---------- detail panel ------------------------------------------------ */
 
-.trophy-detail { padding: 0.85rem 1rem 1.2rem; }
+.trophy-detail { padding: 0.5rem 0.9rem 0.8rem; }
 
 .detail__top {
   display: flex;
@@ -772,7 +772,7 @@ main { max-width: 1400px; margin: 0 auto; }
   justify-content: space-between;
   gap: 0.8rem;
   border-bottom: 2px solid var(--teal-deep);
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.08rem;
 }
 
 .detail__id {
@@ -785,13 +785,13 @@ main { max-width: 1400px; margin: 0 auto; }
 
 .detail__name {
   font-family: var(--serif);
-  font-size: 1.45rem;
-  line-height: 1.15;
+  font-size: 1.34rem;
+  line-height: 1.1;
   color: var(--teal-deep);
-  margin: 0.1rem 0 0.25rem;
+  margin: 0 0 0.04rem;
 }
 
-.detail__badges { display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; margin-top: 0.35rem; }
+.detail__badges { display: flex; flex-wrap: wrap; gap: 0.18rem; align-items: center; margin-top: 0.09rem; }
 
 .detail__earn {
   display: flex;
@@ -802,13 +802,14 @@ main { max-width: 1400px; margin: 0 auto; }
 }
 
 .detail__official {
-  margin: 0.7rem 0 0;
-  padding: 0.45rem 0.65rem;
+  margin: 0.18rem 0 0;
+  padding: 0.14rem 0.44rem;
   border-left: 2px solid var(--rule);
   background: var(--paper-sunk);
   font-family: var(--serif);
   font-style: italic;
-  font-size: 13.5px;
+  font-size: 12.6px;
+  line-height: 1.2;
   color: var(--ink-soft);
 }
 .detail__official span {
@@ -819,25 +820,26 @@ main { max-width: 1400px; margin: 0 auto; }
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--ink-faint);
-  margin-bottom: 0.18rem;
+  margin-bottom: 0.04rem;
 }
 
-.detail__section { margin-top: 0.9rem; }
+.detail__section { margin-top: 0.15rem; }
 .detail__section > h3 {
   font-family: var(--mono);
   font-size: 9px;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--teal);
-  margin-bottom: 0.3rem;
-  padding-bottom: 0.15rem;
+  margin-bottom: 0.06rem;
+  padding-bottom: 0.035rem;
   border-bottom: 1px dotted var(--teal-line);
 }
 
 .detail__short {
-  font-size: 13.5px;
-  line-height: 1.5;
+  font-size: 12.6px;
+  line-height: 1.2;
   color: var(--ink);
+  margin-bottom: 0;
 }
 
 .steps { list-style: none; counter-reset: step; }
@@ -862,6 +864,10 @@ main { max-width: 1400px; margin: 0 auto; }
 }
 .steps__text { min-width: 0; }
 .steps__cites { grid-column: 2; display: flex; gap: 0.22rem; flex-wrap: wrap; margin-top: 0.18rem; }
+
+.trophy-detail .steps > li { font-size: 12px; padding: 0.05rem 0; line-height: 1.2; gap: 0.04rem 0.28rem; }
+.trophy-detail .steps > li::before { font-size: 9.6px; padding-top: 0.05rem; }
+.trophy-detail .steps__cites { margin-top: 0.035rem; gap: 0.15rem; }
 
 .cite {
   display: inline-block;
@@ -928,6 +934,14 @@ main { max-width: 1400px; margin: 0 auto; }
   color: var(--ink-soft);
 }
 
+.trophy-detail .disagree { margin-top: 0.15rem; padding: 0.13rem 0.44rem 0.15rem; }
+.trophy-detail .disagree__head { margin-bottom: 0.035rem; }
+.trophy-detail .disagree__topic { font-size: 12.6px; margin-bottom: 0.06rem; line-height: 1.14; }
+.trophy-detail .disagree__sides { gap: 0.06rem; }
+.trophy-detail .disagree__side { font-size: 11.8px; line-height: 1.16; gap: 0.26rem; }
+.trophy-detail .disagree__source { font-size: 8.4px; height: 0.88rem; line-height: 0.84rem; }
+.trophy-detail .disagree__call { font-size: 11.8px; margin: 0.08rem 0 0; padding-top: 0.07rem; line-height: 1.18; }
+
 /* callout for the one watch item */
 .callout {
   margin-top: 0.75rem;
@@ -944,6 +958,10 @@ main { max-width: 1400px; margin: 0 auto; }
   color: var(--rust);
   margin-bottom: 0.15rem;
 }
+
+.trophy-detail .callout { margin-top: 0.15rem; padding: 0.14rem 0.44rem; font-size: 12.2px; line-height: 1.2; }
+.trophy-detail .callout__head { margin-bottom: 0.035rem; }
+.trophy-detail .callout p:last-child { margin: 0; }
 
 /* counter widget */
 .counter {
@@ -1110,12 +1128,19 @@ main { max-width: 1400px; margin: 0 auto; }
   display: block;
 }
 .fact__value {
+  display: block;
   font-family: var(--serif);
   font-size: 1.15rem;
   color: var(--teal-deep);
   line-height: 1.2;
 }
-.fact__note { font-size: 11px; color: var(--ink-soft); }
+.fact__note {
+  display: block;
+  margin-top: 0.12rem;
+  font-size: 11px;
+  line-height: 1.35;
+  color: var(--ink-soft);
+}
 
 /* ---------- sources table ---------------------------------------------- */
 
