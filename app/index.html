@@ -47,15 +47,22 @@
 </section>
 
 <div class="toolbar">
-  <label class="search" for="search">
-    <svg class="search__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-      <circle cx="7" cy="7" r="4.4" fill="none" stroke="currentColor" stroke-width="1.6"></circle>
-      <path d="M10.4 10.4 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
-    </svg>
-    <input id="search" type="search" placeholder="Search trophies, steps and sources" autocomplete="off" spellcheck="false">
-  </label>
-  <div class="filters" id="filters" role="group" aria-label="Filter the trophy list"></div>
-  <button class="btn btn--toggle" id="spoiler-toggle" type="button" aria-pressed="false">Spoilers: hidden</button>
+  <div class="toolbar__row toolbar__row--search">
+    <label class="search" for="search">
+      <svg class="search__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <circle cx="7" cy="7" r="4.4" fill="none" stroke="currentColor" stroke-width="1.6"></circle>
+        <path d="M10.4 10.4 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"></path>
+      </svg>
+      <input id="search" type="search" placeholder="Search trophies, steps and sources" autocomplete="off" spellcheck="false">
+    </label>
+    <div class="nextup" id="next-up" aria-label="Next up in roadmap order">
+      <span class="nextup__tag">Next up — roadmap order</span>
+    </div>
+  </div>
+  <div class="toolbar__row toolbar__row--filters">
+    <div class="filters" id="filters" role="group" aria-label="Filter the trophy list"></div>
+    <button class="btn btn--toggle" id="spoiler-toggle" type="button" aria-pressed="false">Spoilers: hidden</button>
+  </div>
 </div>
 
 <nav class="tabs" role="tablist" aria-label="Views">

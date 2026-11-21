@@ -108,7 +108,7 @@ button, input, select { font: inherit; color: inherit; }
 .masthead {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0.85rem 0 0.55rem;
+  padding: 0.55rem 0 0.35rem;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
@@ -118,7 +118,7 @@ button, input, select { font: inherit; color: inherit; }
 }
 
 .masthead__kicker {
-  margin: 0 0 0.18rem;
+  margin: 0 0 0.06rem;
   font-family: var(--mono);
   font-size: 9.5px;
   letter-spacing: 0.22em;
@@ -178,7 +178,7 @@ button, input, select { font: inherit; color: inherit; }
   flex-wrap: wrap;
   align-items: center;
   gap: 0.28rem 0.5rem;
-  padding: 0.32rem 0.1rem;
+  padding: 0.14rem 0.1rem;
   font-family: var(--mono);
   font-size: 10.5px;
   letter-spacing: 0.02em;
@@ -209,7 +209,7 @@ button, input, select { font: inherit; color: inherit; }
   grid-template-columns: auto auto minmax(80px, 1fr) auto;
   align-items: center;
   gap: 0.5rem 1.1rem;
-  padding: 0.5rem 0.75rem;
+  padding: 0.3rem 0.75rem;
   background: var(--paper-raised);
   border: 1px solid var(--rule);
   border-top: none;
@@ -378,11 +378,18 @@ button, input, select { font: inherit; color: inherit; }
   max-width: 1400px;
   margin: 0 auto;
   display: flex;
-  align-items: center;
-  gap: 0.55rem 0.8rem;
-  padding: 0.65rem 0 0.55rem;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.18rem;
+  padding: 0.28rem 0 0.24rem;
   border-bottom: 1px solid var(--rule);
+}
+
+.toolbar__row {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem 0.8rem;
+  min-width: 0;
 }
 
 .search {
@@ -413,6 +420,63 @@ button, input, select { font: inherit; color: inherit; }
   min-width: 0;
 }
 .search input::placeholder { color: var(--ink-faint); }
+
+/* ---------- next up strip ----------------------------------------------- */
+
+/* Sits at the right edge of the search row: the same small-caps tag as the
+   audit strip, then the next three unearned trophies in list order. One line,
+   no wrap, so it can never make the toolbar taller. */
+.nextup {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.28rem;
+  min-width: 0;
+  overflow: hidden;
+  font-family: var(--mono);
+  font-size: 9.5px;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+
+.nextup__tag {
+  background: var(--teal);
+  color: var(--paper-raised);
+  padding: 0.1rem 0.42rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-size: 9px;
+  border-radius: 2px;
+  flex: none;
+}
+
+.nextup__item {
+  appearance: none;
+  border: 1px solid transparent;
+  background: transparent;
+  border-radius: 999px;
+  padding: 0.02rem 0.3rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.26rem;
+  min-width: 0;
+  font: inherit;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease, color 120ms ease;
+}
+.nextup__item:hover {
+  border-color: var(--teal-line);
+  color: var(--teal-deep);
+  background: var(--paper-raised);
+}
+
+.nextup__name { overflow: hidden; text-overflow: ellipsis; }
+.nextup__first { color: var(--ochre); flex: none; }
+.nextup__dot { color: var(--rule); }
+.nextup__empty { color: var(--ink-faint); font-style: italic; }
 
 .filters {
   display: flex;
@@ -462,7 +526,7 @@ button, input, select { font: inherit; color: inherit; }
   background: transparent;
   border: 1px solid transparent;
   border-bottom: none;
-  padding: 0.4rem 0.9rem 0.36rem;
+  padding: 0.24rem 0.9rem 0.2rem;
   margin-bottom: -2px;
   font-family: var(--mono);
   font-size: 10.5px;
@@ -486,13 +550,13 @@ button, input, select { font: inherit; color: inherit; }
 
 main { max-width: 1400px; margin: 0 auto; }
 
-.view { display: none; padding-top: 0.7rem; }
+.view { display: none; padding-top: 0.4rem; }
 .view.is-active { display: block; }
 
 .view-body {
   background: var(--paper-raised);
   border: 1px solid var(--rule);
-  padding: 1rem 1.15rem 1.25rem;
+  padding: 0.62rem 1.15rem 0.9rem;
   box-shadow: var(--shadow);
 }
 
@@ -502,8 +566,8 @@ main { max-width: 1400px; margin: 0 auto; }
   justify-content: space-between;
   gap: 1rem;
   border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.4rem;
-  margin-bottom: 0.85rem;
+  padding-bottom: 0.22rem;
+  margin-bottom: 0.42rem;
 }
 .view-head h2 { font-size: 1.2rem; }
 .view-head p {
@@ -764,7 +828,7 @@ main { max-width: 1400px; margin: 0 auto; }
 
 /* ---------- detail panel ------------------------------------------------ */
 
-.trophy-detail { padding: 0.5rem 0.9rem 0.8rem; }
+.trophy-detail { padding: 0.32rem 0.9rem 0.7rem; }
 
 .detail__top {
   display: flex;
@@ -965,14 +1029,14 @@ main { max-width: 1400px; margin: 0 auto; }
 
 /* counter widget */
 .counter {
-  margin-top: 0.5rem;
+  margin-top: 0.28rem;
   display: flex;
   align-items: center;
   gap: 0.4rem;
   flex-wrap: wrap;
   border: 1px solid var(--rule);
   background: var(--paper);
-  padding: 0.35rem 0.5rem;
+  padding: 0.28rem 0.5rem;
 }
 .counter__label {
   font-family: var(--mono);

@@ -80,6 +80,7 @@ let onSelectCallback = null;
 let listWired = false;
 let detailWired = false;
 let filtersWired = false;
+let nextUpWired = false;
 
 /* ------------------------------------------------------------------ utils */
 
@@ -170,6 +171,58 @@ function visibleTrophies(data, store) {
 function defaultSelection(data, store) {
   const firstUnearned = data.trophies.find((t) => !store.isEarned(t.id));
   return (firstUnearned ?? data.trophies[0])?.id ?? null;
+}
+
+/* ---------------------------------------------------------------- next up */
+
+/** The list's own order: grouped by GROUPS rank, stable within a group. */
+function roadmapOrder(data) {
+  const rank = new Map(GROUPS.map((group, index) => [group.key, index]));
+  return data.trophies
+    .map((trophy, index) => ({ trophy, index, rank: rank.get(groupOf(trophy).key) ?? GROUPS.length }))
+    .sort((a, b) => a.rank - b.rank || a.index - b.index)
+    .map((entry) => entry.trophy);
+}
+
+/**
+ * The next few unearned trophies in list order. Masked ones are skipped: the
+ * strip sits inside the tracker chrome, so it must not undo the spoiler shield
+ * that the button beside it is holding up.
+ */
+function nextUpTargets(data, store, count = 3) {
+  return roadmapOrder(data)
+    .filter((trophy) => !store.isEarned(trophy.id) && !isMasked(trophy, store))
+    .slice(0, count);
+}
+
+function renderNextUp(container, data, store) {
+  if (!container) return;
+  const targets = nextUpTargets(data, store);
+  const label = '<span class="nextup__tag">Next up — roadmap order</span>';
+  const items = targets.map((trophy) => {
+    const doFirst = String(trophy.missable_status ?? '').startsWith('possibly');
+    return (
+      `<button class="nextup__item" type="button" data-nextup="${trophy.id}" ` +
+      `title="#${trophy.id} ${esc(trophy.name)}">` +
+      gradeIcon(trophy.grade) +
+      `<span class="nextup__name">${esc(trophy.name)}</span>` +
+      (doFirst ? '<span class="nextup__first">· do first</span>' : '') +
+      '</button>'
+    );
+  });
+  const body = items.length
+    ? items.join('<span class="nextup__dot" aria-hidden="true">·</span>')
+    : '<span class="nextup__empty">all earned</span>';
+  container.innerHTML = label + body;
+
+  if (!nextUpWired) {
+    nextUpWired = true;
+    container.addEventListener('click', (event) => {
+      const item = event.target.closest('[data-nextup]');
+      if (!item) return;
+      selectTrophy(Number(item.dataset.nextup));
+    });
+  }
 }
 
 /* ---------------------------------------------------------------- filters */
@@ -450,9 +503,9 @@ function detailHtml(trophy, store) {
     `<div class="detail__section"><h3>In short</h3><p class="detail__short">${short}</p></div>` +
     disagreeHtml(trophy.disagree) +
     missableCallout(trophy) +
+    counterHtml(trophy, store) +
     `<div class="detail__section"><h3>How to get it</h3>${stepsHtml(trophy)}</div>` +
-    statusHtml(trophy) +
-    counterHtml(trophy, store)
+    statusHtml(trophy)
   );
 }
 
@@ -600,6 +653,7 @@ export function renderTracker({ doc, store, focusId }) {
   }
 
   renderFilters(document.getElementById('filters'), doc, view);
+  renderNextUp(document.getElementById('next-up'), doc, store);
   renderList(document.getElementById('trophy-list'), doc, view, (id) => selectTrophy(id));
   renderDetail(document.getElementById('trophy-detail'), byId(doc, view.selectedId), view);
 }
